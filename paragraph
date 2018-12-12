@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf8">
+<head/>
+<body>
+<p> параграф
+<p> это еще один параграф
+<br> а в этом параграфе переход на новую строку
+</body>
+</html>
